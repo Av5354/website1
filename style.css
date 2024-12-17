@@ -1,0 +1,183 @@
+.header-top-mb{
+	
+	padding:10px;
+	border-bottom:5px solid black;
+}
+
+.mail a{
+	text-decoration:none;
+	color:white;
+}
+
+.num a{
+	color:white;
+	text-decoration:none;
+}
+.num{
+	color:white;
+}
+
+.navbar{
+	
+padding:0px;
+}
+
+.navbar-brand{
+	padding-left:50px;
+}
+
+.navbar-nav{
+	font-size:18px;
+	
+}
+
+.nav-link {
+	color:black;
+}
+
+.nav-link a:hover{
+	color:red;
+}
+
+.mrq{
+	background:black;
+	color:white;
+}
+
+.about{
+	padding:120px 0px 120px 0px;
+}
+
+.card-title{
+	background:#d3053e;
+	color:white;
+	font-weight:700;
+	padding:0px;
+	text-align:center;
+}
+
+.btn{
+
+	background:#d3053e;
+	color:white;
+	font-weight:700;
+	margin-left:95px;
+}
+
+.counter-area{
+
+	background-color:red;
+	width:100%;
+	height:100%;
+	padding:15px 0px 15px 0px;
+
+	
+}
+
+.icon{
+	height:150px;
+	width:150px;
+	padding-top:20px;
+}
+
+.icon img{
+	width:100px;
+	height:auto;
+	background:blue;
+	padding:10px;
+	
+
+}
+
+.count{
+	font-weight:1000;
+	letter-spacing:2px;
+	font-size:2rem;
+	text-align:center;
+}
+
+.service{
+	padding-top:110px;
+}
+
+.service .btn{
+	margin:0px;
+}
+
+.why_us{
+	padding-top:110px;
+	color:white;
+	background:#f8f8f8;
+	padding-bottom:150px;
+}
+
+.why_us .col-md{
+	background:#212e54;
+}
+
+.tx{
+	background:#ff5722;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:20px;
+	font-weight:650;
+	font-size:20px;;
+}
+
+.why_us p{
+	padding-top:20px;
+}
+
+.gallery{
+	padding-top:120px;
+}
+
+.footer i{
+	font-size:36px;
+	padding-right:15px;
+}
+
+.foot{
+	padding-top:60px;
+
+}
+
+.foot h4{
+	padding-bottom:20px;
+}
+
+.foot a{
+	text-decoration:none;
+	color:white;
+	text-align:left;
+	padding:4px;
+	font-size:20px;
+}
+
+.foot ul{
+	list-style:none;
+	padding:0px;
+}
+
+.foot li{
+	margin-bottom:2px;
+	border-bottom: 1px dashed #fff;
+}
+
+.contact{
+	margin-bottom:50px;
+}
+
+.form-control{
+	border:none;
+	background:#f8f8f8;
+	font-size:16px;
+	padding:16px 22px 16px 22px;
+
+}
+
+
+
+
+
+
